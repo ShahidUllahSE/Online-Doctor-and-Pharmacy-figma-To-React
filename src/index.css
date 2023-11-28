@@ -8,6 +8,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(87, 85, 194);
+  color : white
 }
 
 code {
@@ -19,44 +21,69 @@ code {
 
 padding-left: 70px;
 padding-right: 50px;
+color: white;
 
+}
+
+#home {
+  color: white;
+  transition: color 0.3s; /* Add a smooth transition for color change */
 }
 
 #home:hover{
 
   cursor: pointer;
-  color: black;
+  color: rgb(202, 184, 184);
   font-weight: bold;
 
 }
 
-#doctor:hover{
+#doctor {
+  color: white;
+  transition: color 0.3s; /* Add a smooth transition for color change */
+}
 
+#doctor:hover {
   cursor: pointer;
-  color: black;
+  color: rgb(246, 175, 175);
   font-weight: bold;
-
+}
+#apps {
+  color: white;
+  transition: color 0.3s; /* Add a smooth transition for color change */
 }
 
 #apps:hover{
 
   cursor: pointer;
-  color: black;
+  color: rgb(193, 175, 175);
   font-weight: bold;
 
+}
+
+#test {
+  color: white;
+  transition: color 0.3s; /* Add a smooth transition for color change */
 }
 
 #test:hover{
 
   cursor: pointer;
-  color: black;
+  color: rgb(199, 186, 186);
   font-weight: bold;
 
 }
+
+#about {
+  color: white;
+  transition: color 0.3s; /* Add a smooth transition for color change */
+}
+
+
 #about:hover{
 
   cursor: pointer;
-  color: black;
+  color: rgb(180, 166, 166);
   font-weight: bold;
 
 }
@@ -65,12 +92,14 @@ padding-right: 50px;
   align-items: center;
   justify-content: space-around;
   padding: 20px;
+  color: white;
 }
 
 .text-container {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  color: white;
 }
 
 #heading1 {
@@ -79,6 +108,7 @@ padding-right: 50px;
   color: #333;
   margin-bottom: 10px;
   text-align: left;
+  color: white;
 }
 
 #para1 {
@@ -88,6 +118,7 @@ padding-right: 50px;
   padding-right: 30px;
   white-space: pre-line;
   text-align: justify;
+  color: white;
 }
 
 #img1 {
@@ -108,11 +139,17 @@ padding-right: 50px;
   align-items: left;
   margin-right: 100px;
   margin-top: 35px;
+  color: white;
 }
 
 #servicesHeading p{
   margin-top: 20px;
   font-weight: bold;
+  color: white;
+}
+
+#services{
+  color: white;
 }
 
 .healthCareContainer {
@@ -120,23 +157,28 @@ padding-right: 50px;
   align-items: center;
   justify-content: space-around;
   padding: 20px;
+  margin-bottom: 0%;
+  color: white;
 }
 
 .healthCare {
   width: 400px;
   height: 400px;
   border-radius: 10px;
+  color: white;
 }
 
 .text-container {
   max-width: 400px; 
+  color: white;
 }
 
 #healthcare {
   font-size: 2.5rem;
   font-weight: bold;
-  color: #333;
+  color: #d7d2d2;
   margin-bottom: 10px;
+  
 }
 
 #healthcare p {
@@ -147,6 +189,8 @@ padding-right: 50px;
   justify-content: center;
   padding: left 20px; ;
   text-align: justify;
+  color: white;
 }
+
 
 

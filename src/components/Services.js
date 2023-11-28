@@ -9,7 +9,7 @@ import image8 from './image8.png'
 
 const Services = () => {
   return (
-    <div>
+    <div className='serviceParent'>
       <section className='text-gray-600 body-font'>
 
         <div id='servicesHeading'>
@@ -23,8 +23,8 @@ const Services = () => {
           undergo treatment <br /> with our higly qualified doctors you can
           consult with us which type of service is suitable for your health
         </p>
-        </div>
-        <div className='container px-5 py-24 mx-auto'>
+        </div >
+        <div className='container px-5 py-24 mx-auto' id='services'>
           <div className='flex flex-wrap -m-4'>
             <div className='lg:w-1/3 lg:mb-0 mb-6 p-4'>
               <div className='h-full text-center'>

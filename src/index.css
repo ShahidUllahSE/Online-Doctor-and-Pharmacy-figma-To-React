@@ -109,6 +109,7 @@ color: white;
   margin-bottom: 10px;
   text-align: left;
   color: white;
+  margin-left: 55px;
 }
 
 #para1 {
@@ -119,7 +120,8 @@ color: white;
   white-space: pre-line;
   text-align: justify;
   color: white;
-  margin-top: 50px;
+  margin-top: 30px;
+  margin-left: 55px;
 }
 
 #img1 {

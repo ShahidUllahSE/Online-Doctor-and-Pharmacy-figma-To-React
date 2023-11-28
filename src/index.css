@@ -192,5 +192,21 @@ color: white;
   color: white;
 }
 
+.reviews{
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#revpara {
+  color: white;
+}
+#patient{
+  color: white;
+}
+#patientName{
+  color: white;
+}
+
 
 

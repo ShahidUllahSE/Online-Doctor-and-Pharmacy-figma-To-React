@@ -228,3 +228,26 @@ color: white;
 
 }
 
+#articles{
+  margin-bottom: 150px;
+  padding-bottom: 150px;
+  color: white;
+}
+#artheading{
+  margin-bottom: 20px;
+  padding-bottom: 100px;
+  margin-top: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+#headingart{
+  color: white;
+}
+
+#content{
+  color: white;
+}
+

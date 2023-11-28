@@ -1,5 +1,5 @@
 import React from 'react'
-import image1 from './image1.jpg'
+import image19 from './image19.jpg'
 
 const Body = () => {
   return (
@@ -22,7 +22,7 @@ const Body = () => {
           </p>
         </div>
       </div>
-      <img src={image1} alt='doctors' id='img1' height={450} width={450} />
+      <img src={image19} alt='doctors' id='img1' height={650} width={650} />
 
       <div>
         {/* <button type="button" className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Default</button> */}

@@ -4,8 +4,8 @@ import Body from './components/Body';
 import Services from './components/Services';
 import HealthCare from './components/HealthCare';
 import MobApps from './components/MobApps';
-import Reviews from './components/Reviews';
 import Reviews2 from './components/Reviews2';
+import Articles from './components/Articles';
 
 function App() {
   return (
@@ -17,6 +17,7 @@ function App() {
    <HealthCare/>
    <MobApps/>
    <Reviews2/>
+   <Articles/>
 
     </div>
   );

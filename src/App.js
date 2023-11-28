@@ -6,6 +6,7 @@ import HealthCare from './components/HealthCare';
 import MobApps from './components/MobApps';
 import Reviews2 from './components/Reviews2';
 import Articles from './components/Articles';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
    <MobApps/>
    <Reviews2/>
    <Articles/>
+   <Footer/>
 
     </div>
   );

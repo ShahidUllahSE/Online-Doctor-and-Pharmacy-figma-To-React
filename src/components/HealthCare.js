@@ -4,7 +4,7 @@ import image20 from './image20.jpg';
 const HealthCare = () => {
   return (
     <div className="healthCareContainer">
-      <img className='healthCare' src={image20} alt='healthCare' height={200} width={200} />
+      <img className='healthCare' src={image20} alt='healthCare' height={300} width={300} />
       <div className="text-container">
         <h1 className='text-4xl font-bold text-black-500' id='healthcare'>Leading healthcare providers</h1>
         <p>Trafalgar provides progressive, and affordable healthcare, accessible on mobile and online for everyone. To us, it’s not just work. We take pride 

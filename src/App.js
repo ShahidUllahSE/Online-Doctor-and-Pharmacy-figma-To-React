@@ -5,6 +5,7 @@ import Services from './components/Services';
 import HealthCare from './components/HealthCare';
 import MobApps from './components/MobApps';
 import Reviews from './components/Reviews';
+import Reviews2 from './components/Reviews2';
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
    <Services/>
    <HealthCare/>
    <MobApps/>
-   <Reviews/>
+   <Reviews2/>
 
     </div>
   );

@@ -176,7 +176,7 @@ color: white;
 #healthcare {
   font-size: 2.5rem;
   font-weight: bold;
-  color: #d7d2d2;
+  color: white;
   margin-bottom: 10px;
   
 }
@@ -197,6 +197,7 @@ color: white;
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-left: 390px;
 }
 #revpara {
   color: white;
@@ -208,5 +209,22 @@ color: white;
   color: white;
 }
 
+.rectangle{
+  margin-top: 50px;
+}
 
+#rectangleHeading{
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+
+#patientimg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 45px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+
+}
 
